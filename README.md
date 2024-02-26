@@ -21,7 +21,8 @@ Dataset download links:
 2. ICDAR 2013 and 2015: https://rrc.cvc.uab.es/?ch=4
 
 ## Results
-![Alt text]([results.png](https://github.com/Jzliew/CRNN-with-MobileViT-Pytorch-/blob/main/results.PNG)?raw=true "Title")
+![Alt text]([results.png](https://github.com/Jzliew/CRNN-with-MobileViT-Pytorch-/blob/main/results.PNG?raw=true "Title")
+
 
 
 ## Acknowledgment
