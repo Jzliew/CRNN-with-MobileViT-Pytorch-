@@ -1,6 +1,6 @@
 # CRNN with MobileViT Pytorch 
 
-This project is a learning attempt on Scene Text Recognition. A total of three DNN models were implemented and their effectiveness are compared in a simple study. 
+This repo is a project on Scene Text Recognition. A total of three DNN models were implemented and their effectiveness are compared in a simple study. 
 
 ## Language and environments 
 
